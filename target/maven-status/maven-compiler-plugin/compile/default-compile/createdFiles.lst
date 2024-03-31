@@ -1,0 +1,3 @@
+com\spring_course\FoorOrderApp\SpringLearningApplication.class
+com\spring_course\FoorOrderApp\RestController\Controller.class
+com\spring_course\FoorOrderApp\Configurations\CorsConfig.class
