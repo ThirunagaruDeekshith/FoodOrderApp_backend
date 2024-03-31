@@ -1,0 +1,5 @@
+# Created at 2024-03-31T07:32:58.660
+Boot Manifest-JAR contains absolute paths in classpath 'D:\spring-boot\FoodOrderApp\FoodOrderApp\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

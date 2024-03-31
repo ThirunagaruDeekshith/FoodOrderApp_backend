@@ -1,0 +1,114 @@
+[
+  {
+    "id": "m1",
+    "name": "Butter Chicken",
+    "price": "350.00",
+    "description": "Tender pieces of chicken marinated in a creamy tomato-based sauce with a blend of Indian spices, served with naan or rice. A beloved North Indian classic.",
+    "image": "images/butter-chicken.jpg"
+  },
+  {
+    "id": "m2",
+    "name": "Palak Paneer",
+    "price": "300.00",
+    "description": "Fresh spinach cooked with cubes of paneer (Indian cottage cheese) in a creamy tomato-based sauce, flavored with garlic, ginger, and aromatic spices. A nutritious and flavorful vegetarian dish.",
+    "image": "images/palak-paneer.jpg"
+  },
+  {
+    "id": "m3",
+    "name": "Chicken Biryani",
+    "price": "400.00",
+    "description": "Fragrant basmati rice cooked with succulent pieces of chicken marinated in yogurt and a blend of spices, layered with caramelized onions and fresh herbs. A flavorful and aromatic rice dish loved across India.",
+    "image": "images/chicken-biryani.jpg"
+  },
+  {
+    "id": "m4",
+    "name": "Masala Dosa",
+    "price": "100.00",
+    "description": "A crispy South Indian crepe made from fermented rice and lentil batter, filled with a spiced potato mixture and served with coconut chutney and sambar (lentil soup). A beloved breakfast or snack option.",
+    "image": "images/masala-dosa.jpg"
+  },
+  {
+    "id": "m5",
+    "name": "Paneer Tikka",
+    "price": "320.00",
+    "description": "Chunks of paneer marinated in a spiced yogurt mixture, skewered with colorful bell peppers, onions, and tomatoes, and grilled or baked to perfection. A popular vegetarian appetizer or snack.",
+    "image": "images/paneer-tikka.jpg"
+  },
+  {
+    "id": "m6",
+    "name": "Vegetable Biryani",
+    "price": "350.00",
+    "description": "Fragrant basmati rice cooked with a medley of fresh vegetables, spices, and herbs, layered with caramelized onions and saffron-infused milk. A flavorful and satisfying vegetarian rice dish.",
+    "image": "images/vegetable-biryani.jpg"
+  },
+  {
+    "id": "m7",
+    "name": "Aloo Gobi",
+    "price": "280.00",
+    "description": "A comforting North Indian dish made with potatoes (aloo) and cauliflower (gobi) cooked with onions, tomatoes, ginger, garlic, and a blend of aromatic spices. A delicious vegetarian option.",
+    "image": "images/aloo-gobi.jpg"
+  },
+  {
+    "id": "m8",
+    "name": "Chicken Tikka Masala",
+    "price": "380.00",
+    "description": "Tender pieces of grilled chicken cooked in a creamy tomato-based sauce, flavored with garlic, ginger, and a blend of Indian spices. Served with naan or rice, it's a popular choice in Indian restaurants worldwide.",
+    "image": "images/chicken-tikka-masala.jpg"
+  },
+  {
+    "id": "m9",
+    "name": "Pani Puri",
+    "price": "100.00",
+    "description": "A popular Indian street food snack consisting of hollow puri shells filled with a spicy and tangy mixture of tamarind chutney, flavored water (pani), boiled potatoes, chickpeas, and spices. Bursting with flavor and texture.",
+    "image": "images/pani-puri.jpg"
+  },
+  {
+    "id": "m10",
+    "name": "Rogan Josh",
+    "price": "420.00",
+    "description": "A fragrant Kashmiri dish featuring tender pieces of lamb cooked in a rich and flavorful gravy made with yogurt, onions, tomatoes, and a blend of Kashmiri spices. Served with rice or naan for a hearty meal.",
+    "image": "images/rogan-josh.jpg"
+  },
+  {
+    "id": "m11",
+    "name": "Chole Bhature",
+    "price": "200.00",
+    "description": "A classic Punjabi dish consisting of spicy chickpea curry (chole) served with fluffy deep-fried bread (bhature). This indulgent combination is often enjoyed as a hearty breakfast or satisfying meal.",
+    "image": "images/chole-bhature.jpg"
+  },
+  {
+    "id": "m12",
+    "name": "Matar Paneer",
+    "price": "300.00",
+    "description": "A flavorful North Indian curry made with peas (matar) and cubes of paneer (Indian cottage cheese) cooked in a rich and creamy tomato-based sauce with onions, garlic, ginger, and aromatic spices.",
+    "image": "images/matar-paneer.jpg"
+  },
+  {
+    "id": "m13",
+    "name": "Dal Tadka",
+    "price": "180.00",
+    "description": "A comforting Indian lentil dish made with yellow lentils (dal) tempered with ghee, cumin seeds, garlic, and spices. Garnished with fresh cilantro, it's often served with rice or naan for a satisfying meal.",
+    "image": "images/dal-tadka.jpg"
+  },
+  {
+    "id": "m14",
+    "name": "Samosa",
+    "price": "100.00",
+    "description": "A popular Indian snack consisting of crispy pastry filled with spiced potatoes, peas, and sometimes minced meat or lentils. These triangular delights are perfect for snacking or as appetizers.",
+    "image": "images/samosa.jpg"
+  },
+  {
+    "id": "m15",
+    "name": "Gulab Jamun",
+    "price": "140.00",
+    "description": "Soft and spongy milk-based balls soaked in a fragrant sugar syrup flavored with rose water, cardamom, and saffron. A beloved Indian dessert often served warm or cold on special occasions.",
+    "image": "images/gulab-jamun.jpg"
+  },
+  {
+    "id": "m16",
+    "name": "Pav Bhaji",
+    "price": "100.00",
+    "description": "A popular Mumbai street food dish featuring a spicy mashed vegetable curry (bhaji) served with buttered and toasted bread rolls (pav). This flavorful and hearty dish is a favorite among locals and tourists alike.",
+    "image": "images/pav-bhaji.jpg"
+  }
+]
